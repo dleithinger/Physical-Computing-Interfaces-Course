@@ -2,10 +2,7 @@
 Spring 2018
 
 ### Instructor
-Daniel Leithinger
-
-### Email
-daniel.leithinger@colorado.edu	(Contact through Piazza first)
+Daniel Leithinger daniel.leithinger@colorado.edu	(Always contact through [Piazza](piazza.com/colorado/spring2018/atls4519009atls5519009csci4830015csci7000015) first)
 
 ### Location: 
 ATLS 113 (BTU Lab)
