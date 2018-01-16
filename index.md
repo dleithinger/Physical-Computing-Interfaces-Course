@@ -51,39 +51,68 @@ Wed, Jan 17
 Course Introduction and Overview
 
 Mon, Jan 22	
+Workshop: BTU Shop Training and Fabrication	
 
 Wed, Jan 24			
 
 Mon, Jan 29	Intro to Haptics		
+
 Wed, Jan 31	Pseudo-Haptics, Visual Haptic Illusions		
+
 Mon, Feb 5	Workshop Fabricating Soft Interfaces		
+
 Wed, Feb 7	Intro to Unity		
+
 Mon, Feb 12	Unity + Arduino		
+
 Wed, Feb 14	Guest Lecture		
-Mon, Feb 19	Workshop: BTU Shop Training and Fabrication		
+
+Mon, Feb 19		
+
 Wed, Feb 21	Sketching User Experiences	Saul Greenberg, Sheelagh Carpendale, Nicolai Marquardt, and Bill Buxton. 2012. The narrative storyboard: telling a story about use and context over time. interactions 19, 1 (January 2012), 64-69.	
+
 Mon, Feb 25	Sketching VR	Gravity Sketch, Google Tiltbrush, Google Blocks	
-Wed, Feb 28	Wizard of Oz Prototyping		
+
+Wed, Feb 28	Wizard of Oz Prototyping
+
 Mon, Mar 5			
+
 Wed, Mar 7			
+
 Mon, Mar 12			
+
 Wed, Mar 14			
+
 Mon, Mar 19			
+
 Wed, Mar 21			
+
 Mon, Mar 26	No Class, Spring Break		
+
 Wed, Mar 28	No Class, Spring Break		
+
 Mon, Apr 2			
+
 Wed, Apr 4			
+
 Mon, Apr 9			
+
 Wed, Apr 11			
+
 Mon, Apr 16			
+
 Wed, Apr 18			
+
 Mon, Apr 23			
+
 Wed, Apr 25			
+
 Mon, Apr 30			
+
 Wed, May 2			
-TBD: 
-Mon, May 7 or May 9	Final Project Review		
+
+TBD: Mon, May 7 or May 9	Final Project Review		
+
 Readings:
 Ultimate Display by Sutherland
 As we may think by Vannevar Bush
