@@ -8,7 +8,7 @@ Daniel Leithinger daniel.leithinger@colorado.edu	(Always contact through [Piazza
 ATLS 113 (BTU Lab)
 
 ### Dates:
-Mondays, Wednesdays 03:00 PM - 04:50 PM 
+Mondays and Wednesdays 03:00 PM - 04:15 PM 
 
 ### Credit Hours:
 3
